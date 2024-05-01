@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@font-face {
+  font-family: "AmpleSoftBold";
+  src: url("../font/AmpleSoftBold.TTF") format("truetype");
+}
+@font-face {
+  font-family: "AmpleSoft";
+  src: url("../font/AmpleSoft.TTF") format("truetype");
+}
+@font-face {
+  font-family: "AmpleSoftExtraLight";
+  src: url("../font/AmpleSoftExtraLight.TTF") format("truetype");
+}
+@font-face {
+  font-family: "AmpleSoftLight";
+  src: url("../font/AmpleSoftLight.TTF") format("truetype");
+}
+@font-face {
+  font-family: "AmpleSoftMedium";
+  src: url("../font/AmpleSoftMedium.TTF") format("truetype");
+}
+@font-face {
+  font-family: "AmpleSoftThin";
+  src: url("../font/AmpleSoftThin.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "DayBreaker";
+  src: url("../font/DAYBREAKER.TTF") format("truetype");
+}
+.round-20 {
+  border-radius: 20px;
+}
+.img-position {
+  width: 300px;
+  top: 100px;
+  left: 212px;
+}
+.detail-l-bg {
+  background-color: #213f71;
+  border-radius: 60px 0px 0px 60px;
+}
+.detail-r-bg {
+  border-radius: 0px 60px 60px 0px;
+}
+.fs-64 {
+  font-size: 64px;
+}
+.fs-36 {
+  font-size: 36px;
+}
+input {
+  outline: none;
+  border: none;
+}
+.w-526 {
+  width: 526px;
+}
+.h-75-cus {
+  height: 75px;
+}
+.input-corner {
+  border-radius: 50px 0px 0px 50px;
+}
+.bg {
+  background-color: #1e3760;
+}
+.radius {
+  border-radius: 24px;
+}
+.bg-footer {
+  background-color: #f9f5ef;
+}
+.text-color {
+  color: #1e3760;
+}
+.yellow {
+  color: #a59505;
+}
+.purple {
+  color: #8a42a5;
+}
+.logo {
+  max-height: 100px;
+}
+.w-490 {
+  max-width: 490px;
+}
+.h-80 {
+  height: 80px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-76 {
+  font-size: 76px;
+}
+.fs-30 {
+  font-size: 30px;
+}
+.fs-23 {
+  font-size: 23px;
+}
+.fs-50 {
+  font-size: 50px;
+}
+.font-ample-soft-bold {
+  font-family: "AmpleSoftBold", sans-serif;
+}
+.mb-136 {
+  margin-bottom: 136px;
+}
+.mb-30 {
+  margin-bottom: 30px;
+}
+.icon-1 {
+  background-image: url("../image/1x/icon-1.png");
+  width: 42px;
+  height: 42px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-2 {
+  background-image: url("../image/1x/icon-2.png");
+  width: 42px;
+  height: 42px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.icon-3 {
+  background-image: url("../image/1x/icon-3.png");
+  width: 42px;
+  height: 42px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.font-ample-soft {
+  font-family: "AmpleSoft", sans-serif;
+}
+
+.font-ample-soft-extra-light {
+  font-family: "AmpleSoftExtraLight", sans-serif;
+}
+
+.font-ample-soft-light {
+  font-family: "AmpleSoftLight", sans-serif;
+}
+
+.font-ample-soft-medium {
+  font-family: "AmpleSoftMedium", sans-serif;
+}
+
+.font-ample-soft-thin {
+  font-family: "AmpleSoftThin", sans-serif;
+}
+.daybreaker {
+  font-family: "DayBreaker";
+  font-weight: normal;
+  font-style: normal;
+}
+.mr-50 {
+  margin-right: 50px;
+}
+.mr-20 {
+  margin-right: 20px;
+}
+.mt-40 {
+  margin-top: 40px;
+}
+.mt-60 {
+  margin-top: 60px;
+}
+.ml-70 {
+  margin-left: 70px;
+}
+.gap-17 {
+  gap: 17px;
+}
+.custom-container {
+  max-width: 1440px;
+}
+img {
+  object-fit: cover;
+}
+.card-custom {
+  width: 365px;
+  height: 360px;
+  background: white;
+  border-radius: 70px;
+}
